@@ -19,6 +19,13 @@
             {{ item.name }}
         </td>
         {% endif %}
+        <td>
+            <a href="/edit/{{ item.id }}">
+                <buton>
+                    Edit
+                </buton>
+            </a>
+        </td>
     </tr>
     {% empty %}
     <t>
