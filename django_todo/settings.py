@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-#7)l&fax^e1n&riz(wbwd00wdwh+^v&mm&za@kmz9zfkplq7kw
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [ '8000-hawesjm-cifsfdjango-16hclqgpjkt.ws-eu108.gitpod.io']
+ALLOWED_HOSTS = [ '8000-hawesjm-cifsfdjango-16hclqgpjkt.ws-eu108.gitpod.io','hawesjm-django-todo-app-f082ddc07c8a.herokuapp.com']
 
 import os
 import dj_database_url
